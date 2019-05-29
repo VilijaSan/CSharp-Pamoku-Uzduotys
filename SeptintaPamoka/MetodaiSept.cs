@@ -9,7 +9,7 @@ namespace SeptintaPamoka
     public class MetodaiSept
     {
 
-        //Aprašykite metodą, kuris nieko negrąžina, tiesiog priima string parametrą - vardą ir išveda į Console tokią žinutę - “Labas, [vardas]”
+        //Aprašykite metodą, kuris nieko negrąžina, tiesiog priima string parametrą - vardą ir išveda į Console “Labas, [vardas]”
 
         public static void PasisveikinkSuVardu(string vardas)
         {
